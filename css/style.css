@@ -1,39 +1,41 @@
-/* 
 body {
     font-family: sans-serif;
-    font-size: 1.50em;
+    font-size: 1.25em;
+
+    width: 600px;
+    border: 3px solid red;
+
+    margin: 50px auto;
+
+    text-align: center;
 
 }
 
 
-
- */
 
 
 h1 {
 
     border: 3px solid black;
-    padding: 10px;
-    text-align: center;
-
 
 }
 
 ul {
-    border: 3px solid red;
+    border: 3px solid rgb(21, 255, 0);
+    list-style: none;
+    padding-left: 0;
+}
 
+li {
+    border: 2px solid lightcoral;
     padding: 10px;
-    width: 50%;
-    margin: 0 auto;
-
-
 
 }
 
 
 /* 
-auto
-is handy for horizantal centering
+
+
 
  
  */
